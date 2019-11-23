@@ -7,9 +7,11 @@ Looking at the articles from NewsAPI, we see that both coins returned neutral sc
 Bitcoin does show a slightly higher positive mean score, compound score and poistive score
 
 **Bitcoin Sentiment**
+
 ![](Images/bitcoin_describe.png)
 
 **Ethereum Sentiment**
+
 ![](Images/ethereum_describe.png)
 
 * Bitcoin had the higher mean positive score of .065 compared to Ethereum of 0.055
@@ -19,25 +21,31 @@ Bitcoin does show a slightly higher positive mean score, compound score and pois
 Looking at the most common used words, we see:
 
 **Bitcoin Top 10 Words**
+
 ![](Images/bitcoin_topwords.png)
 
 **Ethereum Top 10 Words**
+
 ![](Images/ethereum_topwords.png)
 
 Visualizing the tokens in a word cloud, we get:
 
 **Bitcoin Word Cloud**
+
 ![](Images/bitcoin_wc.png)
 
 **Ethereum Word Cloud**
+
 ![](Images/ethereum_wc.png)
 
 Visualizing the named entities, we get:
 
 **Bitcoin Named Entities**
+
 ![](Images/bitcoin_ent1.png)
 ![](Images/bitcoin_ent2.png)
 
 **Ethereum Named Entities**
+
 ![](Images/ethereum_ent1.png)
 ![](Images/ethereum_ent2.png)
